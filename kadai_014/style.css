@@ -1,0 +1,52 @@
+body {
+  font-family: "Arial", "Meiryo",sans-serif;
+  text-align: center;
+}
+ 
+html  {
+  font-size: 20px;
+}
+
+
+/* ここにGoogle Fontsを指定します */
+.google-fonts {
+    font-family: "Josefin Sans", sans-serif;
+  }
+
+
+/* h1タグに適用されるスタイル */
+h1 {
+  font-family: "Josefin Sans", sans-serif;
+  font-size: 2em;
+  letter-spacing: 1.2em; 
+  text-shadow: 2px 2px 4px grey; 
+  border-bottom: solid 3px rgb(115, 115, 114); 
+}
+
+/* MYPROFILEの'M'に適用される色 */
+h1 .sky-blue {
+  color: skyblue; 
+}
+
+/* MYPROFILEの'P'に適用される色 */
+h1 .pink {
+  color: rgb(255, 192, 203); 
+}
+
+ /*p_bold 黒太文字 */ 
+#basic > p {
+  font-weight: bold;
+}
+  
+/*p_pink ピンク文字 */ 
+.h2_pink {
+  color:rgb(255,192,203);
+
+}
+
+/*p_skyblue 空色文字*/ 
+.h2_skyblue {
+  color:skyblue;
+
+}
+
